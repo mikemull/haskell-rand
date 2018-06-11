@@ -25,6 +25,7 @@ dependencies:
 - vector
 - random
 - mwc-random
+- cryptonite
 
 
 library:
